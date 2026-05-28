@@ -1,14 +1,4 @@
-<h1 align="left">🚀 Olá, sou Renan — Desenvolvedor Full-Stack</h1>
-
-###
-
-<p align="left">
-  💻 Desenvolvedor apaixonado por criar soluções inovadoras e bem estruturadas.<br>
-  🎮 Especialista em bots para Discord e desenvolvimento de jogos na plataforma Roblox.<br>
-  ⚙️ Atuo do front-end ao back-end, com foco em automação, segurança e código limpo.
-</p>
-
-###
+<h1 align="left">🚀 Olá, sou o Renan</h1>
 
 <h2 align="left">🧠 Sobre mim</h2>
 
@@ -25,7 +15,7 @@
 <h2 align="left">🏗 Experiência</h2>
 
 <p align="left">
-  <b>🔹 EstiloGrau</b><br>
+  <b>🔹 Estilo Grau</b><br>
   CEO · Jogo Roblox<br>
   • Desenvolvi o projeto com o objetivo de inovar e trazer novas experiências para a comunidade de Grau no Roblox<br>
   • Responsável por toda a arquitetura e desenvolvimento com Luau<br>
@@ -48,10 +38,6 @@
   <b>🔹 Sintonia RP</b><br>
   Bug Hunter / QA<br>
   • Identificação de vulnerabilidades no anticheat e apresentação de soluções corretivas<br>
-  <br>
-  <b>🔹 DKZZ Studios</b><br>
-  Programador<br>
-  • Desenvolvi bots e sistemas automatizados para processos de venda e gerenciamento de produtos digitais<br>
 </p>
 
 ###
@@ -83,8 +69,8 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=orenandev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orenandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
 </div>
 
 ###
@@ -92,10 +78,6 @@
 <h2 align="left">📬 Contato</h2>
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
   <a href="https://discord.com/users/939137740925206589" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
