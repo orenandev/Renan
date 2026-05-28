@@ -68,8 +68,8 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=orenandev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orenandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=orenandev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orenandev&theme=tokyonight" height="150" alt="Top Languages"/>
 </div>
 
 ###
