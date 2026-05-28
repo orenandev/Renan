@@ -67,7 +67,6 @@
 ###
 
 <h2 align="left">📊 GitHub Stats</h2>
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=orenandev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orenandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
