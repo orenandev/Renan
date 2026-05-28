@@ -15,10 +15,9 @@
 <h2 align="left">🏗 Experiência</h2>
 
 <p align="left">
-  <b>🔹 Estilo Grau</b><br>
-  CEO · Jogo Roblox<br>
-  • Desenvolvi o projeto com o objetivo de inovar e trazer novas experiências para a comunidade de Grau no Roblox<br>
-  • Responsável por toda a arquitetura e desenvolvimento com Luau<br>
+  <b>🔹 Wolf Side</b><br>
+  DEV · Servidor FiveM<br>
+  • Atuo como programador de bots e desenvolvendo algumas apis para o servidor<br>
   <br>
   <b>🔹 Vida no Paraná (VNP)</b><br>
   CFO · Roleplay Roblox<br>
