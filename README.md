@@ -20,22 +20,22 @@
   • Atuo como programador de bots e desenvolvendo algumas apis para o servidor<br>
   <br>
   <b>🔹 Vida no Paraná (VNP)</b><br>
-  CFO · Roleplay Roblox<br>
+  CFO · Servidor Roblox<br>
   • Responsável pela monetização do jogo, criando a loja oficial<br>
   • Implementei estratégias que aumentaram o potencial financeiro do projeto<br>
   <br>
   <b>🔹 Litoral RP</b><br>
-  CTO / CMO · Roleplay Discord<br>
+  CTO / CMO · Servidor Roblox<br>
   • Desenvolvi bots, websites e sistemas internos completos: Tickets, Manager, Staff, CDN e Proxy<br>
   • Responsável pelo marketing no TikTok e outras plataformas<br>
   <br>
   <b>🔹 Mini City</b><br>
-  Programador Comissionado<br>
+  DEV<br>
   • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
   • Auxiliei na correção de bugs em sistemas internos<br>
   <br>
   <b>🔹 Sintonia RP</b><br>
-  Bug Hunter / QA<br>
+  Bug Hunter<br>
   • Identificação de vulnerabilidades no anticheat e apresentação de soluções corretivas<br>
 </p>
 
