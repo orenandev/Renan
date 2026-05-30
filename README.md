@@ -22,7 +22,6 @@
   <b>🔹 Mini City</b><br>
   DEV · Servidor Roblox<br>
   • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
-  • Auxiliei na correção de bugs em sistemas internos<br>
 </p>
 
 ###
