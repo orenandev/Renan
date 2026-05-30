@@ -1,13 +1,11 @@
-<h1 align="left">🚀 Olá, sou o Renan</h1>
+<h1 align="left">👋 Olá, sou o Renan</h1>
 
 <h2 align="left">🧠 Sobre mim</h2>
 
 ###
 
 <p align="left">
-  Me chamo Renan, sou desenvolvedor com experiência em aplicações web, bots, sistemas e jogos na plataforma Roblox usando Luau.<br>
-  Tenho trabalhado com diversas comunidades e estúdios, contribuindo desde o desenvolvimento de sistemas internos até experiências completas de jogos para milhares de jogadores.<br>
-  Adoro resolver problemas complexos com código limpo, e estou sempre aprendendo novas tecnologias para expandir meu repertório.
+  Me chamo Renan, sou desenvolvedor com experiência em aplicações web, bots, sistemas e jogos na plataforma Roblox usando Luau.<br> Tenho trabalhado com diversas comunidades e estúdios, contribuindo desde o desenvolvimento de sistemas internos até experiências completas de jogos para milhares de jogadores.<br> Adoro resolver problemas complexos com código limpo, e estou sempre aprendendo novas tecnologias para expandir meu repertório.
 </p>
 
 ###
@@ -29,7 +27,7 @@
 
 ###
 
-<h2 align="left">💻 Stack Técnica</h2>
+<h2 align="left">💻 Stacks</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -55,7 +53,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Stats</h2>
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=orenandev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orenandev&theme=tokyonight" height="150" alt="Top Languages"/>
