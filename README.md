@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  Me chamo Renan, sou desenvolvedor com experiência em aplicações web, bots, sistemas e jogos na plataforma Roblox usando Luau.<br> Tenho trabalhado com diversas comunidades e estúdios, contribuindo desde o desenvolvimento de sistemas internos até experiências completas de jogos para milhares de jogadores.<br> Adoro resolver problemas complexos com código limpo, e estou sempre aprendendo novas tecnologias para expandir meu repertório.
+  Me chamo Renan, sou desenvolvedor com experiência em aplicações web, bots, sistemas e jogos na plataforma do Roblox.<br> Tenho trabalhado com diversas comunidades e grupos, contribuindo desde o desenvolvimento de sistemas internos até experiências completas de jogos para milhares de jogadores.<br> Adoro resolver problemas complexos com código limpo, e estou sempre aprendendo novas tecnologias para expandir meu repertório.
 </p>
 
 ###
