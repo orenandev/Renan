@@ -22,7 +22,6 @@
   CTO / CMO · Servidor Roblox<br>
   • Desenvolvi bots, websites e sistemas internos completos: Tickets, Manager, Staff, CDN e Proxy<br>
   • Responsável pelo marketing no TikTok e outras plataformas<br>
-  <br>
   <b>🔹 Mini City</b><br>
   DEV<br>
   • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
