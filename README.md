@@ -12,18 +12,12 @@
 
 ###
 
-<h2 align="left">🏗 Experiência</h2>
+<h2 align="left">🏗 Projetos</h2>
 
 <p align="left">
   <b>🔹 Wolf Side</b><br>
   DEV · Servidor FiveM<br>
   • Atuo como programador de bots e desenvolvendo algumas apis para o servidor<br>
-  <br>
-  <b>🔹 Vida no Paraná (VNP)</b><br>
-  CFO · Servidor Roblox<br>
-  • Responsável pela monetização do jogo, criando a loja oficial<br>
-  • Implementei estratégias que aumentaram o potencial financeiro do projeto<br>
-  <br>
   <b>🔹 Litoral RP</b><br>
   CTO / CMO · Servidor Roblox<br>
   • Desenvolvi bots, websites e sistemas internos completos: Tickets, Manager, Staff, CDN e Proxy<br>
@@ -33,10 +27,6 @@
   DEV<br>
   • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
   • Auxiliei na correção de bugs em sistemas internos<br>
-  <br>
-  <b>🔹 Sintonia RP</b><br>
-  Bug Hunter<br>
-  • Identificação de vulnerabilidades no anticheat e apresentação de soluções corretivas<br>
 </p>
 
 ###
