@@ -19,11 +19,10 @@
   DEV · Servidor FiveM<br>
   • Atuo como programador de bots e desenvolvendo algumas apis para o servidor<br>
   <b>🔹 Litoral RP</b><br>
-  CTO / CMO · Servidor Roblox<br>
-  • Desenvolvi bots, websites e sistemas internos completos: Tickets, Manager, Staff, CDN e Proxy<br>
-  • Responsável pelo marketing no TikTok e outras plataformas<br>
+  CMO · Servidor Roblox<br>
+  • Responsável pelo marketing no TikTok e em outras Redes Sociais<br>
   <b>🔹 Mini City</b><br>
-  DEV<br>
+  DEV · Servidor Roblox<br>
   • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
   • Auxiliei na correção de bugs em sistemas internos<br>
 </p>
