@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg](https://public-blob.squarecloud.dev/1004136030661779517/rblx.webp)" height="40" alt="Luau"/>
+  <img src="https://public-blob.squarecloud.dev/1004136030661779517/rblx.webp" height="40" alt="Luau"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="40" alt="Discord.js"/>
   <img width="12" />
